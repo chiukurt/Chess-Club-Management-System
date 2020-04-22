@@ -7,6 +7,7 @@ Capabilities:
   - Adding and removal of members
   - Recording wins and losses for members
   - Filtering of players based on most wins or highest win rate
+  - Return errors on invalid user input
 <hr>
 Made using Netbeans, JavaFX and Scene Builder
 <br>
