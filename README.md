@@ -8,9 +8,11 @@ Capabilities:
   - Recording wins and losses for members
   - Filtering of players based on most wins or highest win rate
 <hr>
-Made using Netbeans, JavaFX and SceneBuilder
+Made using Netbeans, JavaFX and Scene Builder
 <br>
 Final assignment for COMP2130 Application Development using Java
+<br>
+Members of group: Pramesh Khadka, Kalvin Balasingam, Kurt Chiu 
 <br>
 Semester 3 of T127
 <br>
